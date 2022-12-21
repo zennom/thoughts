@@ -1,5 +1,5 @@
 ## Descrição do projeto
-Sistema Web desenvolvido utilizando a arquitetura MVC com NodeJs, Express, Handlebars e Sequelize. Thoughts é um sitema para compartilhamento de pensamentos e idéias.
+Sistema Web desenvolvido utilizando a arquitetura MVC com NodeJs, Express e Sequelize.
 
 ## Funcionalidades do projeto ##
 - `Registro`: É possível realizar registro no sistema para gerenciar seus pensamentos.
