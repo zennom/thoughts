@@ -17,11 +17,3 @@ Após baixar o projeto, você pode executa-lo seguindos os passos abaixo:
   npm install
   npm run dev
   ```
-
-## :heavy_check_mark: Técnicas e tecnologias utilizadas
-* ``Node.js``
-* ``Handlebars``
-* ``Sequelize``
-* ``Arquitetura MVC``
-
-
